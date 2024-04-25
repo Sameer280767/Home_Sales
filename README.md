@@ -1,18 +1,9 @@
 # Home_Sales
-Module 22 Challenge - DUE 5 June 2023
+Module 22 Challenge - DUE 6th May 2024
 
 Home Sales Key Metrics
-
-![House Keys](https://github.com/mugsiemx/Home_Sales/blob/main/Images/pexels-oleksandr-pidvalnyi-7599735.jpg)
-
-In this challenge, we use our knowledge of SparkSQL to determine key metrics about home sales data. Then we use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
-
-   ![](https://github.com/mugsiemx/Home_Sales/blob/main/Images/1_read_in_AWS_S3_bucket.png)
-    
+   
 # The required questions answered as follows:
-First change the data types then sql query for the answers.
-
-   ![](https://github.com/mugsiemx/Home_Sales/blob/main/Images/2_change_data_types_and_create_temp_view.png)
 
 1- What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
     The average prices for a four bedroom
